@@ -1,0 +1,2 @@
+welcome
+-DCATKIN_DEVEL_PREFIX=/home/arun/abhiyaan/Section_A/devel -DCMAKE_INSTALL_PREFIX=/home/arun/abhiyaan/Section_A/install -G Unix Makefiles
