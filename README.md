@@ -21,10 +21,12 @@ Why I want to work in the team:
 
 Relevant Courses:
 ----------------
+
 In Institute
 ------------
 EE1103
 Passed
+
 Online
 ------
 Andrew NG Deeplearning.ai (Not completed)
