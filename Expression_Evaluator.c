@@ -1,4 +1,4 @@
-//Assumed that the input is a valid expression, abd both the numbers and results willbe integers
+//Assumed that the input is a valid expression, and both the numbers and results will be integers
 #include <bits/stdc++.h>   
 
 using namespace std; 
