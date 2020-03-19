@@ -1,3 +1,5 @@
+//Assumptions: max no of topics is n(see below), max no of subscribers to a topic is 5
+
 #include <bits/stdc++.h>
 
 #define n 100  //max no of topics
