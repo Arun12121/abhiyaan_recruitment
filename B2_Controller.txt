@@ -1,0 +1,12 @@
+At every interval of time, we can use the front and rear cameras to determine the 
+current postion of the bot and compare it to the previous position and check whether 
+the bot is going along the planned path.
+
+Using the available data, we should predict the path of the dynamic obstacles 
+and using this we can find the probability of an obstacle being pressent at 
+a certain position in a certain instant of time. We can consider all the paths 
+that have no stationary obstacles in them and then find probability of 
+encountering an obstacle in all of them. Assign a certain weight to the distance 
+of the path and to the probability of finding an obstacle and find the best path 
+among them. We can keep repeating this process after say every 5 seconds for 
+better accuracy.
