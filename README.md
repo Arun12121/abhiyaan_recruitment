@@ -9,15 +9,15 @@ EE19B071
 
 Previous Experience:
 -------------------
-Part of control algorithms mini-project in Team Anveshak
+Part of control algorithms mini-project in Team Anveshak (Worked with ROS and arduino)
 
 Current PORs:
 -------------
---TODO--
+None
 
 Why I want to work in the team:
 ------------------------------
---TODO--
+I think it will be a really good experience working in the team and because it is a good place to apply what I know to solve a real world problem and to learn more.
 
 Relevant Courses:
 ----------------
